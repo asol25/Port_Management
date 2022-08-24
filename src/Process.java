@@ -11,8 +11,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Process {
-    static File initialFile = new File("src/text.txt");
-    static File result = new File("src/out.txt");
+    static File initialFile = new File("src/Test/text.txt");
+    static File result = new File("src/Test/out.txt");
 
    static Scanner scanner;
 
