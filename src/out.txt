@@ -1,0 +1,9 @@
+Port 0: (100.00, 200.00)
+  BasicContainer: 2
+  HeavyContainer: 3
+Ship 1: 370.740000
+  BasicContainer: 1
+Ship 2: 0.000000
+Port 1: (120.60, 250.00)
+  BasicContainer: 0
+Ship 0: 260.000000
