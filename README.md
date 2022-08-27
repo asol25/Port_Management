@@ -125,12 +125,12 @@ false.
 They should extend the Container class. They should have a constructor
 with two inputs like a Container.
 
-● Weight of a BasicContainer <= 3000
-● Weight of a HeavyContainer : otherwise
+- Weight of a BasicContainer <= 3000
+- Weight of a HeavyContainer : otherwise
 
 Fuel consumption is as follows:
-● BasicContainer : 1.50 per unit of weight
-● HeavyContainer : 3.00 per unit of weight
+- BasicContainer : 1.50 per unit of weight
+- HeavyContainer : 3.00 per unit of weight
 
 ## Input/Output
   
